@@ -1,4 +1,4 @@
-# IBM-Data-Science-Proffessional
+# IBM-Data-Science-Professional
 
 ##Tools for Data Science:
 I created a Jupyter Notebook using IBM Watson Studio using Python. I included a combination of markdown and code cells. I used the Markdown cheatsheet to help you determine the appropriate syntax to style my markdown, And met the following requirements:   
